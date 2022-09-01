@@ -82,7 +82,7 @@ label{
 }
 
 /* 4 */
-h1;hover{
+h1:hover{
     color: navy;
 }
 
